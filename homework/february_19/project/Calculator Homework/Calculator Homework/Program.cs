@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.Design;
 
 double a, b;
-string operation;
+string operation; 
 string userA, userB;
     
     

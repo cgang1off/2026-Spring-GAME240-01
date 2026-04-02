@@ -1,0 +1,29 @@
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.exe
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.deps.json
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.runtimeconfig.json
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.pdb
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.AssemblyInfoInputs.cache
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.AssemblyInfo.cs
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.csproj.CoreCompileInputs.cache
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\refint\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.pdb
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.genruntimeconfig.cache
+C:\Users\ChloeGangloff\Documents\Rider files\WEEK5\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\ref\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.exe
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.deps.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.runtimeconfig.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\bin\Debug\net8.0\WHILE LOOP HW.pdb
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.AssemblyInfoInputs.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.AssemblyInfo.cs
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.csproj.CoreCompileInputs.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.sourcelink.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\refint\WHILE LOOP HW.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.pdb
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\WHILE LOOP HW.genruntimeconfig.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\march_3\project\WHILE LOOP HW\WHILE LOOP HW\obj\Debug\net8.0\ref\WHILE LOOP HW.dll

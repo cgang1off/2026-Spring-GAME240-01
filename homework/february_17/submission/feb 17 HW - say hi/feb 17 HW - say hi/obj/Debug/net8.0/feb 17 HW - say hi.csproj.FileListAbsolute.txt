@@ -1,0 +1,15 @@
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\bin\Debug\net8.0\feb 17 HW - say hi.exe
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\bin\Debug\net8.0\feb 17 HW - say hi.deps.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\bin\Debug\net8.0\feb 17 HW - say hi.runtimeconfig.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\bin\Debug\net8.0\feb 17 HW - say hi.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\bin\Debug\net8.0\feb 17 HW - say hi.pdb
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.AssemblyInfoInputs.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.AssemblyInfo.cs
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.csproj.CoreCompileInputs.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.sourcelink.json
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\refint\feb 17 HW - say hi.dll
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.pdb
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\feb 17 HW - say hi.genruntimeconfig.cache
+C:\Users\ChloeGangloff\Documents\GitHub\2026-Spring-GAME240-01\homework\february_17\project\feb 17 HW - say hi\feb 17 HW - say hi\obj\Debug\net8.0\ref\feb 17 HW - say hi.dll
